@@ -99,7 +99,7 @@ A window opens displaying the full keyboard layout. Click **Quitter** to close i
 
 ## 📄 License
 
-Free to fork and contribute — no need to ask permission first. Feel free to use, modify, and build on this project.
+Free to fork and contribute.
 
 ---
 
